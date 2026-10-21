@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/header-light.svg">
+    <img alt="Externa: Astro starter for Externa (coming soon)" src=".github/assets/header-light.svg" width="100%">
+  </picture>
+</p>
+
 # externa-astro-starter
 
 Official **Astro** headless starter for [Externa](https://github.com/qiick-io/externa-core), the open-source Laravel headless CMS.
